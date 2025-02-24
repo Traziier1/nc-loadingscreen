@@ -30,7 +30,7 @@ This is a forked version of the [nc-loadingscreens](https://github.com/NaorNC/nc
 ## How to Use
 
 1. **Download the Latest Release**  
-   To get started, [download the latest release](link-to-latest-release) of this resource. Ensure you’re using the latest version to have access to all the new features and improvements.
+   To get started, [download the latest release](https://github.com/Traziier1/nc-loadingscreen/releases/latest) of this resource. Ensure you’re using the latest version to have access to all the new features and improvements.
 
 2. **Configure to Your Liking**  
 - **Edit the titles** to reflect your server name.
