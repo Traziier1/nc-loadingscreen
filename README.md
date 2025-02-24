@@ -14,8 +14,9 @@ This is a forked version of the [nc-loadingscreens](https://github.com/NaorNC/nc
   - Choose a display color for the showcase
   - Set a custom time duration for how long the showcase is visible before switching to the next
 
-### 3. **Staff Member Quotes**
+### 3. **Staff Member Additions**
 - Each staff member in the `config.js` now has a configurable quote that is displayed in the staff section. This gives more personality and recognition to staff members.
+- Automatically cycles through staff members every 5 seconds, configurable in `main.js` line 148.
 
 ### 4. **Now Playing Feature**
 - A "Now Playing" feature was added below the server description that dynamically displays the name of the currently playing song.
