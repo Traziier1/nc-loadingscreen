@@ -41,7 +41,7 @@ This is a forked version of the [nc-loadingscreens](https://github.com/NaorNC/nc
 - **Change the logos** by heading to `/assets/media` and replacing the images with your server logos.
 - **Video Configuration**: Go to the `config.js` and edit the name and video link under `Config.Video`.
 - **Configure Social Media & Staff**: Head to `config.js` to configure your social media links and staff team information (name, description, quote, color, and image).
-- **Customize Colors**: Change the colors by editing `#b10707` in `style.css` to your preferred color.
+- **Customize Colors**: Change the colors by editing `style.css` to your preferred color.
    
 4. **Start the Resource**  
    Once the configuration is set, start the resource in your server's `server.cfg` by adding the following line: ```start nc-loadingscreens``` This will initiate the loading screen with all your configured settings in place.
