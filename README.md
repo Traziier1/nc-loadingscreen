@@ -45,7 +45,7 @@ This is a forked version of the [nc-loadingscreens](https://github.com/NaorNC/nc
 
 ## Credits
 
-This project is a fork of [nc-loadingscreens](https://github.com/NaorNC/nc-loadingscreens). Special thanks to NaorNC for the original work!
+This project is a fork of [nc-loadingscreens](https://github.com/NaorNC/nc-loadingscreens). Thanks to NaorNC for the original work!
 
 ---
 
