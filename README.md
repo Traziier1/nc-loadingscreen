@@ -2,7 +2,7 @@
 
 This is a forked version of the [nc-loadingscreens](https://github.com/NaorNC/nc-loadingscreens) created to add additional features for use in FiveM servers.
 
-![Loading Screen Preview](preview.png)
+![Loading Screen Preview](Preview.png)
 
 ## Changes Made
 
