@@ -20,8 +20,11 @@ This is a forked version of the [nc-loadingscreens](https://github.com/NaorNC/nc
 ### 4. **Now Playing Feature**
 - A "Now Playing" feature was added below the server description that dynamically displays the name of the currently playing song.
 
-### 5. **Video Change Button**
+### 5. **Change Video Button**
 - Added a button that allows users to change the video being played on the loading screen.
+
+### 6. **No Need to Touch HTML**
+- Nearly everything is now configurable via the `config.js`, so you won't need to edit the `index.html`.
 
 ## How to Use
 
@@ -29,13 +32,13 @@ This is a forked version of the [nc-loadingscreens](https://github.com/NaorNC/nc
    To get started, [download the latest release](link-to-latest-release) of this resource. Ensure you’re using the latest version to have access to all the new features and improvements.
 
 2. **Configure to Your Liking**  
-   - Edit the titles to match your server name.  
-   - Modify the description to fit your server's needs.  
-   - Customize the showcase section (edit the name, image, color, and display time).  
-   - Navigate to `/assets/media` to replace the logos with your server’s logos.  
-   - Edit the **video config** in `index.html` to change the names and video links.  
-   - Open `config.js` to configure your social media information and staff team (edit the name, description, quote, color, and image).  
-   - To change the colors, edit `style.css` and replace **#b10707** with your preferred color.  
+- **Edit the titles** to reflect your server name.
+- **Edit the description** to your liking.
+- **Edit the showcase** (name, image, color, and time) in the `config.js`.
+- **Change the logos** by heading to `/assets/media` and replacing the images with your server logos.
+- **Video Configuration**: Go to the `config.js` and edit the name and video link under `Config.Video`.
+- **Configure Social Media & Staff**: Head to `config.js` to configure your social media links and staff team information (name, description, quote, color, and image).
+- **Customize Colors**: Change the colors by editing `#b10707` in `style.css` to your preferred color.
    
 4. **Start the Resource**  
    Once the configuration is set, start the resource in your server's `server.cfg` by adding the following line: ```start nc-loadingscreens``` This will initiate the loading screen with all your configured settings in place.
