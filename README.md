@@ -1,8 +1,8 @@
-# Forked Version of nc-loadingscreens
+# Forked Version of nc-loadingscreen
 
 This is a forked version of the [nc-loadingscreens](https://github.com/NaorNC/nc-loadingscreens) created to add additional features for use in FiveM servers.
 
-![Loading Screen Preview](Preview.png)
+![Loading Screen Preview](https://r2.fivemanage.com/3oi2OE5yiZtZvh9LYIqUE/images/Preview.png)
 
 ## Changes Made
 
